@@ -1,0 +1,6 @@
+{
+  "name": "TaxPilot AI",
+  "description": "An intelligent AI-powered tax filing assistant guiding taxpayers step-by-step, managing documents, generating dynamic checklists, and providing interactive tax consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
